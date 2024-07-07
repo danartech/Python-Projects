@@ -4,6 +4,9 @@ Welcome to the Python Projects repository! This repository is a collection of my
 
 ## Projects
 
+### [Black Friday Excel Data Analysis In Python](https://github.com/danartech/Black-Friday-Excel-Data-Analysis-In-Python)
+- **Description:** Analyzed ski shop sales data during Black Friday using Python and Excel.
+
 ### [BMI Calculator](https://github.com/yourusername/BMI-Calculator)
 - **Description:** A project that calculates BMI based on user input for weight and height, categorizes BMI, and provides personalized feedback.
 
